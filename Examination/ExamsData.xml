@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Exams>
+  <Exam Name="Logic and General Knowledge">
+    <Question Type="MCQ" Id="1">
+      <Text>There are 5,280 feet in 1 mile and 12 inches in one foot. How many inches are in a mile?</Text>
+      <Options>
+        <Option Id="1">5268</Option>
+        <Option Id="2">440</Option>
+        <Option Id="3" Answer="True">63360</Option>
+        <Option Id="4">22</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="2">
+      <Text>A Marsupial is which of the following?</Text>
+      <Options>
+        <Option Id="1" Answer="True">A Mammal</Option>
+        <Option Id="2">A reptile</Option>
+        <Option Id="3">A dinosour</Option>
+        <Option Id="4">A type of human being</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="3">
+      <Text>(50+x)/x is an integer for which of the following?</Text>
+
+      <Options>
+        <Option Id="1">0</Option>
+        <Option Id="2">4</Option>
+        <Option Id="3" Answer="True">5</Option>
+        <Option Id="4">6</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="4">
+      <Text>Which of the following is not a sub-atomic particle?</Text>
+
+      <Options>
+        <Option Id="1">Proton</Option>
+        <Option Id="2">Neutron</Option>
+        <Option Id="3">Electron</Option>
+        <Option Id="4" Answer="True">Van Der Waal's Forces</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="5">
+      <Text>Which of the following is not a Metal?</Text>
+
+      <Options>
+        <Option Id="1">Mercury</Option>
+        <Option Id="2">Silver</Option>
+        <Option Id="3" Answer="True">Antimony</Option>
+        <Option Id="4">Bismuth</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="6">
+      <Text>The following are in the same family except with the domestic dog except?</Text>
+
+      <Options>
+        <Option Id="1">Grey Wolf</Option>
+        <Option Id="2">Ethiopian Wolf</Option>
+        <Option Id="3">European Red Fox</Option>
+        <Option Id="4" Answer="True">Grizzly Bear</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="7">
+      <Text>Which of the following is not a type of Landform?</Text>
+
+      <Options>
+        <Option Id="1">Plateau</Option>
+        <Option Id="2">Canyon</Option>
+        <Option Id="3">Valley</Option>
+        <Option Id="4" Answer="True">Dipole Moment</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="8">
+      <Text>Entropy can best be described as</Text>
+      <Options>
+        <Option Id="1" Answer="True">Degree of disorder in a system</Option>
+        <Option Id="2">A unit for measuring electric charge</Option>
+        <Option Id="3">A special breed of cattle</Option>
+        <Option Id="4">A new database notation</Option>
+      </Options>
+    </Question>
+
+    <Question Type="Essay" Id="9">
+      <Topic>Prime Number</Topic>
+      <SubQuestion Part="Theory">
+        <Text>Define a Prime Number with examples</Text>
+        <Answer>A prime number (or a prime) is a natural number greater than 1 that has no positive divisors other than 1 and itself.</Answer>
+      </SubQuestion>
+      <SubQuestion Part="Blank">
+        <Text>How many prime numbers do there exist between 30 and 40</Text>
+        <Answer>2</Answer>
+      </SubQuestion>
+    </Question>
+
+    <Question Type="Essay" Id="10">
+      <Topic>Pythagorean Theorem</Topic>
+      <SubQuestion Part="Theory">
+        <Text>Define the Pythagorean Theorem and write its formula</Text>
+        <Answer>The Pythagorean (or Pythagoras') Theorem is the statement that the sum of (the areas of) the two small squares equals (the area of) the big one.</Answer>
+      </SubQuestion>
+      <SubQuestion Part="Blank">
+        <Text>Given that the hypotenus is 10 cm and one of the shorter sides is 6 cm, the third side is ____ cm </Text>
+        <Answer>8</Answer>
+      </SubQuestion>
+    </Question>
+  </Exam>
+
+  <Exam Name="Physics">
+    <Question Type="MCQ" Id="1">
+      <Text>Which of the following is not an SI unit?</Text>
+      <Options>
+        <Option Id="1">Newtons</Option>
+        <Option Id="2">Seconds</Option>
+        <Option Id="3">Coulomb</Option>
+        <Option Id="4" Answer="True">Lepton</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="2">
+      <Text>Which of the following is a version of the inverse square law?</Text>
+      <Options>
+        <Option Id="1" Answer="True">Coulomb's Law</Option>
+        <Option Id="2">Archimedes Principle</Option>
+        <Option Id="3">Schrodinger's Equation</Option>
+        <Option Id="4">Bernoulli's Principle</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="3">
+      <Text>Hooke's law is mathematically expressed as (all symbols carry their usual meaning):</Text>
+      <Options>
+        <Option Id="1" Answer="True">f=-kx</Option>
+        <Option Id="2">G=m1m2/r^2</Option>
+        <Option Id="3">v=u+at</Option>
+        <Option Id="4">dy/dx*dt/dy=dt/dx</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="4">
+      <Text>Which of the following is an implication of Schrodinger's equation?</Text>
+      <Options>
+        <Option Id="1">Newton's Law of Cooling</Option>
+        <Option Id="2" Answer="True">Quantization of Energy</Option>
+        <Option Id="3">Deepak Chopra's teachings</Option>
+        <Option Id="4">Life on Mars</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="5">
+      <Text>Which of the following measures energy?</Text>
+      <Options>
+        <Option Id="1" Answer="True">Joules</Option>
+        <Option Id="2">Metres</Option>
+        <Option Id="3">Seconds</Option>
+        <Option Id="4">Lightyears</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="6">
+      <Text>Like poles repel, unlike poles_________</Text>
+      <Options>
+        <Option Id="1">Combust</Option>
+        <Option Id="2">Extrapolate</Option>
+        <Option Id="3" Answer="True">Attract</Option>
+        <Option Id="4">Play</Option>
+      </Options>
+    </Question>
+    
+    <Question Type="MCQ" Id="7">
+      <Text>The Photelectric effect threshold frequency is best described by which of the following</Text>
+      <Options>
+        <Option Id="1">The maximum amount of sound emmitted by a radio</Option>
+        <Option Id="2">The beat frequency</Option>
+        <Option Id="3">Rarefaction</Option>
+        <Option Id="4" Answer="True">The minimum frequency of incident light which can eject an electron</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="8">
+      <Text>The rate of change of acceleration is called?</Text>
+      <Options>
+        <Option Id="1">Velocity</Option>
+        <Option Id="2" Answer="True">Jerk</Option>
+        <Option Id="3">Jounce</Option>
+        <Option Id="4">Displacement</Option>
+      </Options>
+    </Question>
+
+    <Question Type="Essay" Id="9">
+      <Topic>Newton's Second Law of Motion</Topic>
+      <SubQuestion Part="Theory">
+        <Text>Explain Newton's Second Law of Motion. Also, state the equation.</Text>
+        <Answer>Newton's Second Law of Motion states that for a given mass, the net force applied on a body is directly proportional and in the same directon of force</Answer>
+      </SubQuestion>
+      <SubQuestion Part="Blank">
+        <Text>Given constant mass, force on a body would be _______ proportional to its acceleration </Text>
+        <Answer>Directly</Answer>
+      </SubQuestion>
+    </Question>
+
+    <Question Type="Essay" Id="10">
+      <Topic>Ohm's Law</Topic>
+      <SubQuestion Part="Theory">
+        <Text>Explain Ohm's Law with the help of its equation</Text>
+        <Answer>Ohm's law states that the current through a conductor between two points is directly proportional to the potential difference across the two points.</Answer>
+      </SubQuestion>
+      <SubQuestion Part="Blank">
+        <Text>Given constant potential difference, the current would be ___________ proportional to its resistance</Text>
+        <Answer>Inversely</Answer>
+      </SubQuestion>
+    </Question>
+  </Exam>
+
+  <Exam Name="XML">
+    <Question Type="MCQ" Id="1">
+      <Text>What does XML stand for?</Text>
+
+      <Options>
+        <Option Id="1">None of these</Option>
+        <Option Id="2" Answer="True">Extensible Markup Language</Option>
+        <Option Id="3">Extended Mashup Language</Option>
+        <Option Id="4">Extensible Mashup Language</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="2">
+      <Text>XML is most similar to:</Text>
+
+      <Options>
+        <Option Id="1" Answer="True">HTML</Option>
+        <Option Id="2">CSS</Option>
+        <Option Id="3">Javascrip</Option>
+        <Option Id="4">Machine Code</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="3">
+      <Text>XML is designed to _______ data</Text>
+
+      <Options>
+        <Option Id="1" Answer="True">Transport</Option>
+        <Option Id="2">Design</Option>
+        <Option Id="3">Verify</Option>
+        <Option Id="4">Divide and Multiply</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="4">
+      <Text>Which of the following is not a direct function of XML?</Text>
+
+      <Options>
+        <Option Id="1" Answer="True">Style Information</Option>
+        <Option Id="2">Store Information</Option>
+        <Option Id="3">Structure Information</Option>
+        <Option Id="4">Transform Information</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="5">
+      <Text>XML is _________</Text>
+
+      <Options>
+        <Option Id="1">A .NET exclusive markup language</Option>
+        <Option Id="2">Javascript exclusive</Option>
+        <Option Id="3">Python exclusive</Option>
+        <Option Id="4" Answer="True">Platform Independent</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="6">
+      <Text>XPATH is _______</Text>
+
+      <Options>
+        <Option Id="1" Answer="True">A query for selecting nodes from XML text</Option>
+        <Option Id="2">A way to add design to XML</Option>
+        <Option Id="3">A form of HTML</Option>
+        <Option Id="4">XML declaration</Option>
+      </Options>
+    </Question>
+    <Question Type="MCQ" Id="7">
+      <Text>A valid XML document ______</Text>
+
+      <Options>
+        <Option Id="1">Contains HTML</Option>
+        <Option Id="2">Is well designed</Option>
+        <Option Id="3" Answer="True">Conforms to XML Schema</Option>
+        <Option Id="4">Has no attributes</Option>
+      </Options>
+    </Question>
+
+    <Question Type="MCQ" Id="8">
+      <Text>The following are advantages of XML except</Text>
+
+      <Options>
+        <Option Id="1" Answer="True">Validation is necessary to ensure readability</Option>
+        <Option Id="2">Vendor Neutral</Option>
+        <Option Id="3">Combines structure and data</Option>
+        <Option Id="4">Human readable and platform independent</Option>
+      </Options>
+    </Question>
+
+    <Question Type="Essay" Id="9">
+
+      <Topic>XML Schema</Topic>
+      <SubQuestion Part="Theory">
+        <Text>What is XML Schema?</Text>
+        <Answer>An XML Schema describes the structure of an XML document.</Answer>
+      </SubQuestion>
+      <SubQuestion Part="Blank">
+        <Text>In XML Schema, the data type you would use to represent your name would be ________ </Text>
+        <Answer>xs:string</Answer>
+      </SubQuestion>
+    </Question>
+
+    <Question Type="Essay" Id="10">
+      <Topic>XSLT</Topic>
+      <SubQuestion Part="Theory">
+        <Text>What is XSLT?</Text>
+        <Answer>XSLT (Extensible Stylesheet Language Transformations) is a language for transforming XML documents into other XML documents,[1] or other formats such as HTML for web pages, plain text</Answer>
+      </SubQuestion>
+      <SubQuestion Part="Blank">
+        <Text>In XSLT, the element you would use to extract the value of a node would be &lt;______&gt;</Text>
+        <Answer>xsl:value-of</Answer>
+      </SubQuestion>
+    </Question>
+  </Exam>
+</Exams>
